@@ -1,0 +1,6 @@
+framework module FFAutoLayout {
+  umbrella header "FFAutoLayout-umbrella.h"
+
+  export *
+  module * { export * }
+}
